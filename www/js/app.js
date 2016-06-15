@@ -11,6 +11,7 @@ angular.module('starter', ['ionic'])
     {title:"First", completed:true},
     {title:"Second", completed:false},
     {title:"Third", completed:false},
+    {title:"Four", completed:true},
   ];
 
   $scope.newTask = function(){
